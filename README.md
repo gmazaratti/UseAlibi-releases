@@ -9,7 +9,7 @@
 [![Latest release](https://img.shields.io/github/v/release/gmazaratti/UseAlibi-releases?label=download&color=d8528f)](https://github.com/gmazaratti/UseAlibi-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/gmazaratti/UseAlibi-releases/total?color=d8528f)](https://github.com/gmazaratti/UseAlibi-releases/releases)
 ![Platform](https://img.shields.io/badge/platform-Windows-2a2c34)
-![iOS](https://img.shields.io/badge/iOS-17%20%E2%80%93%2018-2a2c34)
+![iOS](https://img.shields.io/badge/iOS-17%20and%20later-2a2c34)
 
 **[⬇️  Download the latest release](https://github.com/gmazaratti/UseAlibi-releases/releases/latest)**
 
@@ -56,7 +56,9 @@ Location* does, wrapped in a fast, native desktop app.
 3. On your iPhone: unlock, tap **Trust**, and turn on **Developer Mode** the first
    time. The setup guide walks you through each step and confirms when it's done.
 
-Validated on iPhone, **iOS 18**. Windows 10/11.
+Works with **iOS 17 and later** — including the newest **iOS 26**. It uses the
+modern CoreDevice path that's shared across every current iOS version, so new
+releases work without an update. Validated on iOS 18; Windows 10/11.
 
 ## 🧩 How it works
 
