@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "date": "2026-07-20",
-  "notes": "Guided onboarding that verifies each setup step, one-tap Developer Mode reveal, and a Store button browser fallback.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.6/UseAlibi-Setup-0.1.6.exe"
+  "notes": "Check for updates anytime from Settings, with your current version shown.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.7/UseAlibi-Setup-0.1.7.exe"
 }
