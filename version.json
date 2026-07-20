@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "date": "2026-07-20",
-  "notes": "Check for updates anytime from Settings, with your current version shown.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.7/UseAlibi-Setup-0.1.7.exe"
+  "notes": "No more temp-directory warning when you close the app, plus Reinstall/repair and Uninstall buttons in Settings.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.8/UseAlibi-Setup-0.1.8.exe"
 }
