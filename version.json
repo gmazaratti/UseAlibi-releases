@@ -1,6 +1,6 @@
 {
   "version": "0.1.8",
   "date": "2026-07-20",
-  "notes": "No more temp-directory warning when you close the app, plus Reinstall/repair and Uninstall buttons in Settings.",
+  "notes": "Confirmed iOS 17 through iOS 26 support and clearer in-app setup steps.",
   "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.8/UseAlibi-Setup-0.1.8.exe"
 }
