@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "date": "2026-07-20",
-  "notes": "Confirmed iOS 17 through iOS 26 support and clearer in-app setup steps.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.8/UseAlibi-Setup-0.1.8.exe"
+  "notes": "Fixes a couldn't-launch-after-install (elevation) error and switches to a faster build with no temp-folder warning on exit.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.9/UseAlibi-Setup-0.1.9.exe"
 }
