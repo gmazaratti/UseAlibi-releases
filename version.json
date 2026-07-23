@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "date": "2026-07-20",
-  "notes": "Fixes a couldn't-launch-after-install (elevation) error and switches to a faster build with no temp-folder warning on exit.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.9/UseAlibi-Setup-0.1.9.exe"
+  "version": "0.1.10",
+  "date": "2026-07-23",
+  "notes": "Account sign-in to unlock (no license keys), draggable window during setup, cleaner map, app version shown, and a pin-alignment fix.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.10/UseAlibi-Setup-0.1.10.exe"
 }
