@@ -1,6 +1,6 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.15",
   "date": "2026-07-23",
-  "notes": "Account sign-in to unlock (no license keys), draggable window during setup, cleaner map, app version shown, and a pin-alignment fix.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.10/UseAlibi-Setup-0.1.10.exe"
+  "notes": "Redesigned interface, the map recenters on your phone when it connects, a new trip planner, reset-to-real-location, known-devices history, experimental Wi-Fi with a setup guide, sharper high-DPI rendering, and your saved data now survives updates.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.15/UseAlibi-Setup-0.1.15.exe"
 }
