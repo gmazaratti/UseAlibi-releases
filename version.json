@@ -1,7 +1,7 @@
 {
-  "version": "0.1.51",
+  "version": "0.1.52",
   "date": "2026-08-16",
-  "notes": "Smaller, faster download — the Windows installer is now 37 MB instead of 60 MB. The Mac version is signed and notarized by Apple, so it opens without the \"unidentified developer\" block. Cable-free Wi-Fi setup is easier to find, the from-anywhere guide now covers adding the phone page to your home screen, and the connection timer shows the real elapsed time.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.51/UseAlibi-Setup-0.1.51.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.51/UseAlibi-macOS.dmg"
+  "notes": "Fixes the sign-in screen getting stuck. On some PCs UseAlibi couldn't open your browser and the screen sat on \"Waiting for sign-in…\" with nothing to click — it now tries several ways to open your browser, and shows the sign-in link on screen if none of them work. On macOS the notarization ticket is stapled into the app itself, so it opens without the \"Apple could not verify\" warning even offline.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.52/UseAlibi-Setup-0.1.52.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.52/UseAlibi-macOS.dmg"
 }
