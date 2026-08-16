@@ -1,7 +1,7 @@
 {
-  "version": "0.1.52",
+  "version": "0.1.53",
   "date": "2026-08-16",
-  "notes": "Fixes the sign-in screen getting stuck. On some PCs UseAlibi couldn't open your browser and the screen sat on \"Waiting for sign-in…\" with nothing to click — it now tries several ways to open your browser, and shows the sign-in link on screen if none of them work. On macOS the notarization ticket is stapled into the app itself, so it opens without the \"Apple could not verify\" warning even offline.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.52/UseAlibi-Setup-0.1.52.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.52/UseAlibi-macOS.dmg"
+  "notes": "The phone interface now moves like a real object — flick the sheet and it carries your speed, catch it mid-slide and it follows your thumb instead of finishing the old animation first, and dragging past the edges resists gently instead of stopping dead. Buttons respond the instant you press them, the app now respects your reduced-motion and contrast settings, and What's New is current again.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.53/UseAlibi-Setup-0.1.53.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.53/UseAlibi-macOS.dmg"
 }
