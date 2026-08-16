@@ -1,7 +1,7 @@
 {
-  "version": "0.1.53",
+  "version": "0.1.54",
   "date": "2026-08-16",
-  "notes": "The phone interface now moves like a real object — flick the sheet and it carries your speed, catch it mid-slide and it follows your thumb instead of finishing the old animation first, and dragging past the edges resists gently instead of stopping dead. Buttons respond the instant you press them, the app now respects your reduced-motion and contrast settings, and What's New is current again.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.53/UseAlibi-Setup-0.1.53.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.53/UseAlibi-macOS.dmg"
+  "notes": "Diagnostics for Mac launch problems — if the app doesn't open it now records why in ~/Library/Logs/UseAlibi/launch.log instead of failing silently. Fixes the macOS browser-profile location, and the app now starts without its saved profile rather than not starting at all. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.54/UseAlibi-Setup-0.1.54.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.54/UseAlibi-macOS.dmg"
 }
