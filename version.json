@@ -1,6 +1,6 @@
 {
-  "version": "0.1.42",
-  "date": "2026-08-14",
-  "notes": "Signed installer — no more \"unknown publisher\" warning. Spoof without the cable over Wi-Fi, and control your location from your phone's browser from anywhere. Fixes a bug where plugging in replayed an old location onto your iPhone, shows real addresses instead of coordinates, and stops console windows flashing.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.42/UseAlibi-Setup-0.1.42.exe"
+  "version": "0.1.50",
+  "date": "2026-08-16",
+  "notes": "Signed installer — no more \"unknown publisher\" warning. Trips now keep running when you lock your phone or close the browser. Use UseAlibi from your phone's browser anywhere, with your computer left at home. Rebuilt phone interface, real addresses instead of coordinates, and fixes for plugging in replaying an old location.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.50/UseAlibi-Setup-0.1.50.exe"
 }
