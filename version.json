@@ -1,6 +1,7 @@
 {
-  "version": "0.1.50",
+  "version": "0.1.51",
   "date": "2026-08-16",
-  "notes": "Signed installer — no more \"unknown publisher\" warning. Trips now keep running when you lock your phone or close the browser. Use UseAlibi from your phone's browser anywhere, with your computer left at home. Rebuilt phone interface, real addresses instead of coordinates, and fixes for plugging in replaying an old location.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.50/UseAlibi-Setup-0.1.50.exe"
+  "notes": "Smaller, faster download — the Windows installer is now 37 MB instead of 60 MB. The Mac version is signed and notarized by Apple, so it opens without the \"unidentified developer\" block. Cable-free Wi-Fi setup is easier to find, the from-anywhere guide now covers adding the phone page to your home screen, and the connection timer shows the real elapsed time.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.51/UseAlibi-Setup-0.1.51.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.51/UseAlibi-macOS.dmg"
 }
