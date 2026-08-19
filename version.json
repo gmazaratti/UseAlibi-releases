@@ -1,7 +1,7 @@
 {
-  "version": "0.1.54",
-  "date": "2026-08-16",
-  "notes": "Diagnostics for Mac launch problems — if the app doesn't open it now records why in ~/Library/Logs/UseAlibi/launch.log instead of failing silently. Fixes the macOS browser-profile location, and the app now starts without its saved profile rather than not starting at all. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.54/UseAlibi-Setup-0.1.54.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.54/UseAlibi-macOS.dmg"
+  "version": "0.1.55",
+  "date": "2026-08-19",
+  "notes": "Fixes sign-in on macOS. Signing in failed even after Google accepted you, because the app shipped without a list of trusted certificate authorities and so couldn't reach the sign-in service to finish. It now ships the standard list. If sign-in does fail, the page shows the actual reason instead of just \"try again\". Windows was never affected. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.55/UseAlibi-Setup-0.1.55.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.55/UseAlibi-macOS.dmg"
 }
