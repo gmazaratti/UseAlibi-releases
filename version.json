@@ -1,7 +1,7 @@
 {
-  "version": "0.1.60",
+  "version": "0.1.61",
   "date": "2026-08-19",
-  "notes": "From-anywhere setup no longer gets stuck. The Add your iPhone step shows a QR code to scan, since the old button opened the App Store on your computer where the phone app cannot be installed. If Tailscale's status can't be read, setup now says so and lets you continue instead of waiting forever on a step you already did. Status messages line up properly when they wrap. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.60/UseAlibi-Setup-0.1.60.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.60/UseAlibi-macOS.dmg"
+  "notes": "Fixes the setup errors on Mac. Two steps of the from-anywhere setup showed a raw JSONDecodeError because UseAlibi asked Tailscale for its status through a command-line tool the Mac version does not reliably provide. It now reads your Tailscale connection straight from your network settings instead, which also fixes the last setup step showing no address to open on your phone. The macOS build is Apple Silicon only.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.61/UseAlibi-Setup-0.1.61.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.61/UseAlibi-macOS.dmg"
 }
