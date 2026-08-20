@@ -1,7 +1,7 @@
 {
-  "version": "0.1.57",
+  "version": "0.1.58",
   "date": "2026-08-19",
-  "notes": "macOS can now reach your iPhone without admin rights \u2014 connecting used to fail with \"requires root privileges\" because the app used a tunnel macOS only allows for administrators. It now uses one that needs no special permissions (iOS 17.4+). Setup no longer shows the Install Apple Devices step on a Mac, and Sign in with Apple appears automatically once enabled. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.57/UseAlibi-Setup-0.1.57.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.57/UseAlibi-macOS.dmg"
+  "notes": "The app now tells you when an update is out \u2014 it checks every 30 minutes while open instead of only once at launch. Fixed: Check for updates handed Mac users the Windows .exe; macOS now gets the .dmg. New on Mac: a Keep this Mac awake switch so your phone can always reach it while you're out. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.58/UseAlibi-Setup-0.1.58.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.58/UseAlibi-macOS.dmg"
 }
