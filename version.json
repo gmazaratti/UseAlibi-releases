@@ -1,7 +1,7 @@
 {
-  "version": "0.1.61",
+  "version": "0.1.62",
   "date": "2026-08-19",
-  "notes": "Fixes the setup errors on Mac. Two steps of the from-anywhere setup showed a raw JSONDecodeError because UseAlibi asked Tailscale for its status through a command-line tool the Mac version does not reliably provide. It now reads your Tailscale connection straight from your network settings instead, which also fixes the last setup step showing no address to open on your phone. The macOS build is Apple Silicon only.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.61/UseAlibi-Setup-0.1.61.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.61/UseAlibi-macOS.dmg"
+  "notes": "A properly designed setup screen. Welcome and setup now share the drifting grid and glow of the sign-in screen, the icon sits in a frosted glass tile you can see through, the type is set properly, and each screen arrives in reading order. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.62/UseAlibi-Setup-0.1.62.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.62/UseAlibi-macOS.dmg"
 }
