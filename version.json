@@ -1,7 +1,7 @@
 {
-  "version": "0.1.64",
+  "version": "0.1.65",
   "date": "2026-08-20",
-  "notes": "Two subscription tiers. UseAlibi covers teleport, trip mode, USB, saved places and history; UseAlibi + Phone adds Wi-Fi and control from anywhere. The app reads your tier from your account and locks the Plus features with an upgrade prompt if your plan does not include them, and a + Phone trial gets them for the full 3 days. Also fixed: an ended subscription could still change your location. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.64/UseAlibi-Setup-0.1.64.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.64/UseAlibi-macOS.dmg"
+  "notes": "Fixes USB connection failures. Connecting could fail with \"Device is not connected\" on Windows, or time out on Mac, even with the iPhone plugged in and unlocked: your computer finishes discovering the phone a moment after the cable goes in, and the app gave up before that. It now waits and retries. On Mac it also picks the cabled connection specifically instead of sometimes grabbing the wireless one. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.65/UseAlibi-Setup-0.1.65.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.65/UseAlibi-macOS.dmg"
 }
