@@ -1,7 +1,7 @@
 {
-  "version": "0.1.59",
+  "version": "0.1.60",
   "date": "2026-08-19",
-  "notes": "Pins land exactly where you click again, and there are now two clearly different ones: a blue dot for where you are, a pink pin for where you're going (the old logo pins are a switch in Appearance). Search results no longer vanish when you click elsewhere, Enter goes to the closest match, and the panel matches the app's glass styling. On Mac, setup no longer reopens Tailscale repeatedly or gets stuck on \"Waiting for you to sign in\". The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.59/UseAlibi-Setup-0.1.59.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.59/UseAlibi-macOS.dmg"
+  "notes": "From-anywhere setup no longer gets stuck. The Add your iPhone step shows a QR code to scan, since the old button opened the App Store on your computer where the phone app cannot be installed. If Tailscale's status can't be read, setup now says so and lets you continue instead of waiting forever on a step you already did. Status messages line up properly when they wrap. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.60/UseAlibi-Setup-0.1.60.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.60/UseAlibi-macOS.dmg"
 }
