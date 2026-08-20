@@ -1,7 +1,7 @@
 {
-  "version": "0.1.63",
+  "version": "0.1.64",
   "date": "2026-08-20",
-  "notes": "Starred and Recent now slide out of the left bar as a drawer attached to it, instead of a card popping up beside it. The Teleport / Trip highlight sits properly inside its pill. Setup drops the \"Step 2 of 4\" label since the dots already show progress, and moves between screens more smoothly. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.63/UseAlibi-Setup-0.1.63.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.63/UseAlibi-macOS.dmg"
+  "notes": "Two subscription tiers. UseAlibi covers teleport, trip mode, USB, saved places and history; UseAlibi + Phone adds Wi-Fi and control from anywhere. The app reads your tier from your account and locks the Plus features with an upgrade prompt if your plan does not include them, and a + Phone trial gets them for the full 3 days. Also fixed: an ended subscription could still change your location. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.64/UseAlibi-Setup-0.1.64.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.64/UseAlibi-macOS.dmg"
 }
