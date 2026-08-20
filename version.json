@@ -1,7 +1,7 @@
 {
-  "version": "0.1.55",
+  "version": "0.1.57",
   "date": "2026-08-19",
-  "notes": "Fixes sign-in on macOS. Signing in failed even after Google accepted you, because the app shipped without a list of trusted certificate authorities and so couldn't reach the sign-in service to finish. It now ships the standard list. If sign-in does fail, the page shows the actual reason instead of just \"try again\". Windows was never affected. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.55/UseAlibi-Setup-0.1.55.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.55/UseAlibi-macOS.dmg"
+  "notes": "macOS can now reach your iPhone without admin rights \u2014 connecting used to fail with \"requires root privileges\" because the app used a tunnel macOS only allows for administrators. It now uses one that needs no special permissions (iOS 17.4+). Setup no longer shows the Install Apple Devices step on a Mac, and Sign in with Apple appears automatically once enabled. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.57/UseAlibi-Setup-0.1.57.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.57/UseAlibi-macOS.dmg"
 }
