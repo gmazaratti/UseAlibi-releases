@@ -1,7 +1,7 @@
 {
-  "version": "0.1.65",
+  "version": "0.1.66",
   "date": "2026-08-20",
-  "notes": "Fixes USB connection failures. Connecting could fail with \"Device is not connected\" on Windows, or time out on Mac, even with the iPhone plugged in and unlocked: your computer finishes discovering the phone a moment after the cable goes in, and the app gave up before that. It now waits and retries. On Mac it also picks the cabled connection specifically instead of sometimes grabbing the wireless one. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.65/UseAlibi-Setup-0.1.65.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.65/UseAlibi-macOS.dmg"
+  "notes": "You hear about updates faster. UseAlibi now checks for a new version every few minutes while it is open, and again whenever you switch back to the window, instead of only at launch. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.66/UseAlibi-Setup-0.1.66.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.66/UseAlibi-macOS.dmg"
 }
