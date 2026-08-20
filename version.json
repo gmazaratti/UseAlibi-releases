@@ -1,7 +1,7 @@
 {
-  "version": "0.1.62",
-  "date": "2026-08-19",
-  "notes": "A properly designed setup screen. Welcome and setup now share the drifting grid and glow of the sign-in screen, the icon sits in a frosted glass tile you can see through, the type is set properly, and each screen arrives in reading order. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.62/UseAlibi-Setup-0.1.62.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.62/UseAlibi-macOS.dmg"
+  "version": "0.1.63",
+  "date": "2026-08-20",
+  "notes": "Starred and Recent now slide out of the left bar as a drawer attached to it, instead of a card popping up beside it. The Teleport / Trip highlight sits properly inside its pill. Setup drops the \"Step 2 of 4\" label since the dots already show progress, and moves between screens more smoothly. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.63/UseAlibi-Setup-0.1.63.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.63/UseAlibi-macOS.dmg"
 }
