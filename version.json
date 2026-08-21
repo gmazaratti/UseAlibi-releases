@@ -1,7 +1,7 @@
 {
-  "version": "0.1.67",
-  "date": "2026-08-20",
-  "notes": "Updates install themselves on Windows. Press Download in the update bar and UseAlibi fetches the new version, checks it is genuine, installs it and restarts, with no browser and no manual install. On macOS the button still opens the download. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.67/UseAlibi-Setup-0.1.67.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.67/UseAlibi-macOS.dmg"
+  "version": "0.1.71",
+  "date": "2026-08-21",
+  "notes": "Support is now built into the app: start a ticket, read replies and reply back from Settings, and it is the same ticket you would see on the website. Sign-in now tells you what happened instead of waiting silently. Fixed: two copies could claim the same port on Windows and misroute a sign-in; the map opens where you last were; Check for updates shows whether it found anything. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.71/UseAlibi-Setup-0.1.71.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.71/UseAlibi-macOS.dmg"
 }
