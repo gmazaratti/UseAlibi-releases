@@ -1,7 +1,7 @@
 {
-  "version": "0.1.71",
+  "version": "0.1.72",
   "date": "2026-08-21",
-  "notes": "Support is now built into the app: start a ticket, read replies and reply back from Settings, and it is the same ticket you would see on the website. Sign-in now tells you what happened instead of waiting silently. Fixed: two copies could claim the same port on Windows and misroute a sign-in; the map opens where you last were; Check for updates shows whether it found anything. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.71/UseAlibi-Setup-0.1.71.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.71/UseAlibi-macOS.dmg"
+  "notes": "Sign-in now tells you what actually happened instead of reporting success regardless. Fixed on Mac: UseAlibi could keep running after its window closed, and the leftover copy blocked the next launch from signing in; and your sign-in is now stored in the standard Application Support folder, carried over automatically. The macOS build is Apple Silicon only (M1 or newer).",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.72/UseAlibi-Setup-0.1.72.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.72/UseAlibi-macOS.dmg"
 }
