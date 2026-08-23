@@ -1,7 +1,7 @@
 {
-  "version": "0.1.72",
-  "date": "2026-08-21",
-  "notes": "Sign-in now tells you what actually happened instead of reporting success regardless. Fixed on Mac: UseAlibi could keep running after its window closed, and the leftover copy blocked the next launch from signing in; and your sign-in is now stored in the standard Application Support folder, carried over automatically. The macOS build is Apple Silicon only (M1 or newer).",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.72/UseAlibi-Setup-0.1.72.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.72/UseAlibi-macOS.dmg"
+  "version": "0.1.84",
+  "date": "2026-08-23",
+  "notes": "Wi-Fi now works on macOS: connecting without the cable needed a system privilege a normal app does not have, and it takes a different route now. The map no longer opens as a blank panel, and starts on a wide view before moving to your iPhone. Signing out is permanent again. Setup no longer claims your iPhone is plugged in when it is not. Subscribers from before the two plans existed had Wi-Fi locked by mistake. New: support tickets in the sidebar with screenshots, diagnostics reports, and Reset to a fresh install. The Windows build is unchanged from 0.1.72.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.84/UseAlibi-Setup.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.84/UseAlibi-macOS.dmg"
 }
