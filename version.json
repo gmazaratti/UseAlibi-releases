@@ -1,7 +1,15 @@
 {
-  "version": "0.1.84",
-  "date": "2026-08-23",
-  "notes": "Wi-Fi now works on macOS: connecting without the cable needed a system privilege a normal app does not have, and it takes a different route now. The map no longer opens as a blank panel, and starts on a wide view before moving to your iPhone. Signing out is permanent again. Setup no longer claims your iPhone is plugged in when it is not. Subscribers from before the two plans existed had Wi-Fi locked by mistake. New: support tickets in the sidebar with screenshots, diagnostics reports, and Reset to a fresh install. The Windows build is unchanged from 0.1.72.",
-  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.84/UseAlibi-Setup.exe",
-  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.84/UseAlibi-macOS.dmg"
+  "version": "0.1.89",
+  "date": "2026-08-30",
+  "notes": "Stop simulating now actually stops: it used to leave the session open, so your iPhone stayed where you had put it. Changing your location while away from your computer works again. Unplugging the cable no longer leaves you stuck. An expired pairing now renews itself whenever your iPhone is plugged in. Anywhere is a third connection option beside USB and Wi-Fi, so you can choose Tailscale on purpose, and stopping while you are away warns you first. Wi-Fi is no longer labelled experimental.",
+  "url": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.89/UseAlibi-Setup.exe",
+  "url_macos": "https://github.com/gmazaratti/UseAlibi-releases/releases/download/v0.1.89/UseAlibi-macOS.dmg",
+
+  "version_windows": "0.1.89",
+  "date_windows": "2026-08-30",
+  "notes_windows": "Stop simulating now actually stops: it used to leave the session open, so your iPhone stayed where you had put it. Changing your location while away from your computer works again. Unplugging the cable no longer leaves you stuck. An expired pairing now renews itself whenever your iPhone is plugged in. Anywhere is a third connection option beside USB and Wi-Fi, so you can choose Tailscale on purpose, and stopping while you are away warns you first. Wi-Fi is no longer labelled experimental. This is the first Windows update since 0.1.72, so it also brings everything the Mac got in between.",
+
+  "version_macos": "0.1.89",
+  "date_macos": "2026-08-30",
+  "notes_macos": "Stop simulating now actually stops: it used to leave the session open, so your iPhone stayed where you had put it. Changing your location while away from your computer works again. Unplugging the cable no longer leaves you stuck. An expired pairing now renews itself whenever your iPhone is plugged in. Anywhere is a third connection option beside USB and Wi-Fi, so you can choose Tailscale on purpose, and stopping while you are away warns you first. Wi-Fi is no longer labelled experimental, and the app reports its real version to macOS."
 }
